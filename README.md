@@ -85,13 +85,11 @@ flutter build apk
    * ❌ Attempts are exhausted.
 
 ---
+## 🖼️ Screenshots
 
-## 🖼️ Screenshots (Add Your Own)
-
-| Game Page                     | Color Picker                      | Result Page                       |
-| ----------------------------- | --------------------------------- | --------------------------------- |
-| ![Game]([screenshots/game.pn](https://github.com/the-madhankumar/MasterMindV1/blob/main/assets/game.png)) | ![Picker]([screenshots/picker.png](https://github.com/the-madhankumar/MasterMindV1/blob/main/assets/pickColor.png)) | ![Result]([screenshots/result.png](https://github.com/the-madhankumar/MasterMindV1/blob/main/assets/result.png)) |
-
+| Home Page | Game Page | Color Picker | Result Page |
+|-----------|-----------|--------------|-------------|
+| ![Home](https://github.com/the-madhankumar/MasterMindV1/blob/main/assets/home.png) | ![Game](https://github.com/the-madhankumar/MasterMindV1/blob/main/assets/game.png) | ![Picker](https://github.com/the-madhankumar/MasterMindV1/blob/main/assets/pickColor.png) | ![Result](https://github.com/the-madhankumar/MasterMindV1/blob/main/assets/result.png) |
 ---
 
 ## ⚙️ Customization
