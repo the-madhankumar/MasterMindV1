@@ -1,0 +1,35 @@
+name: mastermindv
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.3.0
+  animated_text_kit: ^4.2.2
+  google_nav_bar: ^5.0.7
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.14.4"
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter_launcher_icons:
+  android: "ic_launcher"
+  image_path: "assets/logo.png"
+  ios: true
+  web: true
+  windows: true
+  macos: true
+
+flutter:
+  assets:
+  - assets/Data.json
+  uses-material-design: true
+
