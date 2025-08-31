@@ -43,7 +43,7 @@ flutter doctor
 Clone the repo:
 
 ```bash
-git clone https://github.com/the-madhankumar/mastermindv.git
+git clone [https://github.com/the-madhankumar/mastermindv.git](https://github.com/the-madhankumar/MasterMindV1)
 cd mastermindv
 ```
 
