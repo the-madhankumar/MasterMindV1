@@ -138,6 +138,3 @@ Contributions are welcome!
 This project is licensed under the MIT License – feel free to use and modify it.
 
 ---
-
-🔥 Now you’ve got a **complete README** with setup, gameplay rules, and customization.
-Would you like me to also **add badges (e.g., Flutter version, MIT license, build status)** at the top for a more professional look?
